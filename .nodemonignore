@@ -1,0 +1,6 @@
+.editorconfig
+.gitignore
+.travis.yml
+*.MD
+test/*
+node_modules
